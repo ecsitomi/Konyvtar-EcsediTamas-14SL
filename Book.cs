@@ -33,5 +33,6 @@ namespace KonyvtarAsztaliKonzolos
         {
             return $"ID: {Id}, Author: {Author}, Title: {Title}, Published Year: {Published_year}, Page Count: {Page_count}";
         }
+
     }
 }
